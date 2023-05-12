@@ -7,3 +7,5 @@ To check your own understanding of GitHub, answer the questions that follow.
 
 - Forking is making a copy of a repository on Github
 - Cloning is transferring the files to your local computer
+
+Testing for the class
